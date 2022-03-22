@@ -3,8 +3,7 @@ import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-home',
- // templateUrl: '/login.page.html',
-  template: '<ion-app></ion-app>',
+  templateUrl: 'home.page.html',
   styleUrls: ['home.page.scss'],
 })
 export class HomePage {
